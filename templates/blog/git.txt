@@ -1,0 +1,8 @@
+faire git init à la raxcine du répertoire
+ouvrir github récuperer mot de passe
+créer nouveau dépot
+créer repository
+on a if u hav don...
+faire un 1er commit en local
+faire git commit -m commentaire
+ajouter dépot distant

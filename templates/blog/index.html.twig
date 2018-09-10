@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello {{ controller_name }}!{% endblock %}
+
+{% block body %}
+
+<section class="article">
+
+    {%for article in articles %}
+    article>h2{Titre de l'article}+div.metadata{Ecrit le 10/05/2018 à 19:00 dans la catégorie politique}
+    +div.content>img+p>lorem15+a.btn.btn-primary{Lire la suite}
+    {% endfor %}
+
+</section>
+
+{% endblock %}
